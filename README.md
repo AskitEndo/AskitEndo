@@ -14,11 +14,12 @@ I'm a passionate web developer and an enthusiast of data structures and algorith
 
 ###
 
+<br/>
+
 <h4 align="left">WebDev Stack</h4>
 
 ###
 
-<br clear="both">
 
 <img align="right" height="150" src="https://i.ibb.co/yym8TMS/Blueguy-DP2.jpg"  />
 
