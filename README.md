@@ -5,6 +5,7 @@
 I'm a passionate web developer and an enthusiast of data structures and algorithms, diving into various tech adventures!
 
 ---
+
 ###
 
 <div align="center">
@@ -22,7 +23,6 @@ I'm a passionate web developer and an enthusiast of data structures and algorith
 <h4 align="left">WebDev Stack</h4>
 
 ###
-
 
 <img align="right" height="150" src="https://i.ibb.co/yym8TMS/Blueguy-DP2.jpg"  />
 
@@ -77,6 +77,12 @@ I'm a passionate web developer and an enthusiast of data structures and algorith
   <a href="https://www.linkedin.com/in/askitendo/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="26" alt="linkedin logo"  />
   </a>
+  <a href="https://leetcode.com/u/AskitEndo/" target="_blank">
+  <img src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png"  height="26" alt="leetCode logo"  />
+  </a>  
+  <a href="https://www.geeksforgeeks.org/user/askitendo/" target="_blank">
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20200326201748/download312.png"  height="26" alt="GeekForGeeks logo"  />
+  </a>
   <a href="https://discordapp.com/users/askit_4519" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="56" height="26" alt="discord logo"  />
   </a>
@@ -89,4 +95,5 @@ I'm a passionate web developer and an enthusiast of data structures and algorith
 <img src="assets/askit-github-snake.svg" alt="Snake animation" />
 
 ###
+
 ---
