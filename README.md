@@ -4,6 +4,7 @@
 
 I'm a passionate web developer and an enthusiast of data structures and algorithms, diving into various tech adventures!
 
+---
 ###
 
 <div align="center">
@@ -13,6 +14,8 @@ I'm a passionate web developer and an enthusiast of data structures and algorith
 </div>
 
 ###
+
+---
 
 <br/>
 
@@ -81,6 +84,9 @@ I'm a passionate web developer and an enthusiast of data structures and algorith
 
 ###
 
+---
+
 <img src="assets/askit-github-snake.svg" alt="Snake animation" />
 
 ###
+---
