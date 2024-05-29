@@ -81,6 +81,6 @@ I'm a passionate web developer and an enthusiast of data structures and algorith
 
 ###
 
-<img src="https://raw.githubusercontent.com/AskitEndo/AskitEndo/output/snake.svg" alt="Snake animation" />
+<img src="assets/askit-github-snake.svg" alt="Snake animation" />
 
 ###
