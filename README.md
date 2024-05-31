@@ -6,27 +6,19 @@ I'm a passionate web developer and an enthusiast of data structures and algorith
 
 ---
 
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AskitEndo&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=15" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AskitEndo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&border_radius=15" height="150" alt="languages graph"  />
   <!--<img src="https://github-readme-stats.vercel.app/api?username=AskitEndo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />-->
 </div>
 
-###
-
 ---
 
 <br/>
 
+### 
+
 <h4 align="left">WebDev Stack</h4>
-
-###
-
-<img align="right" height="150" src="https://i.ibb.co/yym8TMS/Blueguy-DP2.jpg"  />
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
@@ -52,11 +44,9 @@ I'm a passionate web developer and an enthusiast of data structures and algorith
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
 </div>
 
-###
+### 
 
 <h4 align="left">Programming Languages</h4>
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
@@ -70,29 +60,29 @@ I'm a passionate web developer and an enthusiast of data structures and algorith
   <img src="https://skillicons.dev/icons?i=ruby" height="30" alt="ruby logo"  />
 </div>
 
-###
+---
 
-<div align="right">
-  <a href="https://www.linkedin.com/in/askitendo/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="56" height="26" alt="linkedin logo"  />
-  </a>
-  <a href="https://leetcode.com/u/AskitEndo/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png"  height="26" alt="leetCode logo" style="margin-left: 10px; margin-right: 10px;" />
-  </a>  
-  <a href="https://www.geeksforgeeks.org/user/askitendo/" target="_blank">
-    <img src="https://media.geeksforgeeks.org/wp-content/uploads/20200326201748/download312.png"  height="26" alt="GeekForGeeks logo" style="margin-left: 10px; margin-right: 10px;" />
-  </a>
-  <a href="https://discordapp.com/users/askit_4519" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="56" height="26" alt="discord logo"  />
-  </a>
-</div>
+<h3 align="left">Connect With Me!</h3>
 
-###
+<a href="https://linkedin.com/in/AskitEndo" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/AskitEndo" target="_blank">
+<img src="https://img.shields.io/badge/github-4C007F?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+</a>
+<a href="https://leetcode.com/u/AskitEndo/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-593900?style=for-the-badge&logo=leetcode&logoColor=%23FF8000" alt="leetcode" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.geeksforgeeks.org/user/askitendo/" target="_blank">
+<img src="https://img.shields.io/badge/GeeksForGeeks-000c00?style=for-the-badge&logo=geeksforgeeks&logoColor=00E200" alt="geeksforgeeks" style="margin-bottom: 5px;" />
+</a>
+
+<br/>
 
 ---
 
 <img src="assets/askit-github-snake.svg" alt="Snake animation" />
 
-###
+### 
 
 ---
