@@ -14,8 +14,6 @@ I'm a passionate web developer and an enthusiast of data structures and algorith
 
 ---
 
-<br/>
-
 ### 
 
 <h4 align="left">WebDev Stack</h4>
