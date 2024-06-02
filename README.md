@@ -79,7 +79,7 @@ I'm a passionate web developer and an enthusiast of data structures and algorith
 
 ---
 
-<img src="assets/askit-github-snake.svg" alt="Snake animation" />
+<img src="https://s10.gifyu.com/images/SYpR4.gif" style="display: block; margin: 0 auto; width: 96%; max-width: 100%;" alt= "Dino Run Animation" />
 
 ### 
 
