@@ -79,8 +79,8 @@ I'm a passionate web developer and an enthusiast of data structures and algorith
 ---
 
 <div align="center">
-  <img src="https://s10.gifyu.com/images/SYpR4.gif" height="150" width="600" alt="Dino Animation" style="margin-right: 20px; border-radius: 10px;" />
-  <img src="https://s10.gifyu.com/images/SYwCU.gif" height="150" alt="Avatar Animation" style="margin-left: 20px; border-radius: 10px;" />
+  <img src="https://s12.gifyu.com/images/SYwVa.gif" height="150" width="600" alt="Dino Animation" style="margin-right: 20px;" />
+  <img src="https://s10.gifyu.com/images/SYwVD.gif" height="150" alt="Avatar Animation" style="margin-left: 20px;" />
 </div>
 
 ###
