@@ -9,7 +9,6 @@ I'm a passionate web developer and an enthusiast of data structures and algorith
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AskitEndo&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=15" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AskitEndo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&border_radius=15" height="150" alt="languages graph"  />
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=AskitEndo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />-->
 </div>
 
 ---
@@ -79,8 +78,21 @@ I'm a passionate web developer and an enthusiast of data structures and algorith
 
 ---
 
-<img src="https://s10.gifyu.com/images/SYpR4.gif" style="display: block; margin: 0 auto; width: 96%; max-width: 100%;" alt= "Dino Run Animation" />
+<div align="center">
+  <img src="https://s10.gifyu.com/images/SYpR4.gif" height="150" width="600" alt="Dino Animation" style="margin-right: 20px; border-radius: 10px;" />
+  <img src="https://s10.gifyu.com/images/SYwCU.gif" height="150" alt="Avatar Animation" style="margin-left: 20px; border-radius: 10px;" />
+</div>
 
-### 
+###
+
+
 
 ---
+
+<!--<img align="right" height="150" src="https://s10.gifyu.com/images/SYLrC.gif" alt="Avatar Animation" style="margin-left: 20px;" />-->
+
+<!--###-->
+
+<!--<img src="https://s10.gifyu.com/images/SYpR4.gif" height="150" alt="Dino Animation" style="margin-right: 20px;" />-->
+
+<!--###-->
