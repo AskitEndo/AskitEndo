@@ -5,10 +5,16 @@
 
 <h6 algin="left">I'm a passionate web developer and an enthusiast of data structures and algorithms, Having Keen intrest in Topics like IOT, Cyber-Security, Blockchain and Cloud. Always diving into various tech adventures!</h1>
 
+
+
+
+
+
 ###
 
 
-<img align="right" width="%"  alt="Avatar Animation" src="https://s10.gifyu.com/images/SYwVD.gif" style="margin-right: 20px;" />
+<img align="right" width="25%"  alt="Avatar Animation" src="https://s10.gifyu.com/images/SYwVD.gif" style="margin-right: 20px;" />
+
 
 
 
@@ -118,7 +124,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AskitEndo&radius=16&theme=dracula&area=true&order=5&custom_title=Active%20Period&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
   
   <br>
-### 
+
 
 </div>
 
