@@ -11,18 +11,7 @@
 <summary>What's Cookin' <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Thought%20Balloon.webp" alt="Thought Balloon" width="30" height="30" /></summary>
 
 <table style="border-radius: 10px; border: 2px solid #ddd; padding: 10px; background-color: #f9f9f9; width: 100%; text-align: center;">
-<tr>
-  <td>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Exclamation%20Question%20Mark.webp" alt="Exclamation Question Mark" width="25" height="25" />
-  </td>
-  <td>
-    Currently Nothing 
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Sweat.png" alt="Grinning Face with Sweat" width="25" height="25" />
-  </td>
 
-
-
-</tr>
 
 <tr>
   <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="25" height="25" /></td>
@@ -30,7 +19,7 @@
 </tr>
 
 <tr>
-  <td><img  width="10%"  height="10%" src="https://icon-library.com/images/iot-icon-png/iot-icon-png-6.jpg" style="border-radius: 50%; margin:auto;" /></td>
+  <td><img  width=25  height=25 src="https://icon-library.com/images/iot-icon-png/iot-icon-png-6.jpg" style="border-radius: 50%; margin:auto;" /></td>
   <td>IOT-Arduino Board Code Upload</td>
 </tr>
 
