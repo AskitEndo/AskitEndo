@@ -28,12 +28,23 @@
   <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="25" height="25" /></td>
   <td>Studying for exams...</td>
 </tr>
+
+<tr>
+  <td><img  width="10%"  height="10%" src="https://icon-library.com/images/iot-icon-png/iot-icon-png-6.jpg" style="border-radius: 50%; margin:auto;" /></td>
+  <td>IOT-Arduino Board Code Upload</td>
+</tr>
+
 <!--<tr>-->
 <!--  <td>C++</td>-->
 <!--  <td>Doing DSA questions</td>-->
 <!--</tr>-->
 
 </table>
+
+<br>
+
+[![An image of @askitendo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/askitendo)](https://holopin.io/@askitendo)
+
 
 </details>
 
@@ -83,7 +94,13 @@
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
 
+  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+
+
+
 <br>
+
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
@@ -96,6 +113,19 @@
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=graphql" height="30" alt="nextjs logo"  />
   <img width="12" />
+  
+  <br>
+<img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+  <img width="12" />  
+<img src="https://skillicons.dev/icons?i=redis" height="30" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo"  />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="30" alt="raspberrypi logo"  />
+    <img width="12" />
+  <img src="https://icon-library.com/images/iot-icon-png/iot-icon-png-6.jpg" height="30" alt="raspberrypi logo"  />
+    <img width="12" />
 
 </div>
 
