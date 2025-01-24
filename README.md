@@ -102,7 +102,8 @@
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=graphql" height="30" alt="nextjs logo"  />
   <img width="12" />
-  
+  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask"  />
+  <img width="12" />
   <br>
 <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
   <img width="12" />  
