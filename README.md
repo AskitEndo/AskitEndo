@@ -6,7 +6,7 @@
 <h6 algin="left">I'm a passionate web developer and an enthusiast of data structures and algorithms, Having Keen intrest in Topics like IOT, Cyber-Security, Blockchain and Cloud. Always diving into various tech adventures!</h1>
 
 <details>
-<summary>Badges n Stashes<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Gem%20Stone.webp" alt="Gem Stone" width="25" height="25" /> <img src="https://i.postimg.cc/65Xp6X1d/Skills-Boost-Arcade-Skillsresolve.png" alt="Badge" width="25" height="25" /> <img src="https://i.ibb.co/1JhJKX4w/level4-sloth-terminal-tumbler-hoodie-witch-eclipse.webp" alt="Badge" width="25" height="25" />  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Down%20Arrow.png" alt="Down Arrow" width="25" height="25" /></summary>
+<summary>Badges n Stashes<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Gem%20Stone.webp" alt="Gem Stone" width="25" height="25" /> <img src="https://i.ibb.co/mCqF9xRJ/The-Arcade-Base-Camp-January-2025.png" alt="Badge" width="25" height="25" /> <img src="https://i.ibb.co/1JhJKX4w/level4-sloth-terminal-tumbler-hoodie-witch-eclipse.webp" alt="Badge" width="25" height="25" />  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Down%20Arrow.png" alt="Down Arrow" width="25" height="25" /></summary>
 
 
 <h2>Google Arcade 2025</h2>
