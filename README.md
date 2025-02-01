@@ -5,50 +5,63 @@
 
 <h6 algin="left">I'm a passionate web developer and an enthusiast of data structures and algorithms, Having Keen intrest in Topics like IOT, Cyber-Security, Blockchain and Cloud. Always diving into various tech adventures!</h1>
 
-
-
 <details>
-<summary>What's Cookin' <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Thought%20Balloon.webp" alt="Thought Balloon" width="30" height="30" /></summary>
-
-<table style="border-radius: 10px; border: 2px solid #ddd; padding: 10px; background-color: #f9f9f9; width: 100%; text-align: center;">
+<summary>Badges n Stashes<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Gem%20Stone.webp" alt="Gem Stone" width="25" height="25" /> <img src="https://i.ibb.co/mCqF9xRJ/The-Arcade-Base-Camp-January-2025.png" alt="Badge" width="25" height="25" /> <img src="https://i.ibb.co/1JhJKX4w/level4-sloth-terminal-tumbler-hoodie-witch-eclipse.webp" alt="Badge" width="25" height="25" />  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Down%20Arrow.png" alt="Down Arrow" width="25" height="25" /></summary>
 
 
-<tr>
-  <td><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp" alt="Memo" width="25" height="25" /></td>
-  <td>Studying for exams...</td>
-</tr>
-
-<tr>
-  <td><img  width=25  height=25 src="https://icon-library.com/images/iot-icon-png/iot-icon-png-6.jpg" style="border-radius: 50%; margin:auto;" /></td>
-  <td>IOT-Arduino Board Code Upload</td>
-</tr>
-
-<!--<tr>-->
-<!--  <td>C++</td>-->
-<!--  <td>Doing DSA questions</td>-->
-<!--</tr>-->
-
+<h2>Google Arcade 2025</h2>
+<table> 
+    <tr> 
+        <td width="150" align="center">
+            <a href="https://go.cloudskillsboost.google/arcade"><img src="https://i.ibb.co/mCqF9xRJ/The-Arcade-Base-Camp-January-2025.png" width="100%" /></a>
+            <h4>Arcade Base Camp</h4>
+            <p>Jan 2025</p>
+        </td> 
+        <td width="150" align="center">
+            <a href="https://go.cloudskillsboost.google/arcade"><img src="https://i.ibb.co/jPsvwRgW/Skills-Boost-Arcade-Skillsresolve.png" width="100%"  /></a>
+            <h4>Arcade Skill Resolve</h4>
+            <p>Jan 2025</p>
+        </td> 
+        <td width="150" align="center">
+            <a href="https://go.cloudskillsboost.google/arcade"><img src="https://i.ibb.co/0VmRL305/The-Arcade-Trivia-January-2025-Week-1.png" width="100%" /></a>
+            <h4>Trivia Week 1</h4>
+            <p>Jan 2025</p>
+        </td>
+        <td width="150" align="center">
+            <a href="https://go.cloudskillsboost.google/arcade"><img src="https://i.ibb.co/hFgkx67T/The-Arcade-Trivia-January-2025-Week-2.png" width="100%" /></a>
+            <h4>Trivia Week 2</h4>
+            <p>Jan 2025</p>
+        </td>
+        <td width="150" align="center">
+            <a href="https://go.cloudskillsboost.google/arcade"><img src="https://i.ibb.co/7NX0gtZC/The-Arcade-Trivia-January-2025-Week-3.png" width="100%" /></a>
+            <h4>Trivia Week 3</h4>
+            <p>Jan 2025</p>
+        </td>
+        <td width="150" align="center">
+            <a href="https://go.cloudskillsboost.google/arcade"><img src="https://i.ibb.co/wFJNs0dT/Skills-Boost-Arcade-Trivia-January-2025-Week-4.png" width="100%" /></a>
+            <h4>Trivia Week 4</h4>
+            <p>Jan 2025</p>
+        </td>
+        <td width="150" align="center">
+            <a href="https://go.cloudskillsboost.google/arcade"><img src="https://i.ibb.co/ks4BXXD4/Level-3-Arcade-Heroes.png" width="100%" /></a>
+            <h4>Arcade Hero level 3</h4>
+            <p>Jan 2025</p>
+        </td>       
+    </tr> 
 </table>
 
+---
+
 <br>
+<h2>Hacktober 2024</h2>
 
 [![An image of @askitendo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/askitendo)](https://holopin.io/@askitendo)
 
-
 </details>
-
 
 ###
 
-
 <img align="right" width="25%"  alt="Avatar Animation" src="https://s10.gifyu.com/images/SYwVD.gif" style="margin-right: 20px;" />
-
-
-
-
-
-
-
 
 <h4 align="left">Dev Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /></h4>
 
@@ -85,8 +98,6 @@
 
   <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo"  />
   <img width="12" />
-
-
 
 <br>
 
@@ -144,8 +155,6 @@
 
 ###
 
-
-
 <h3 align="left">Get in Touch! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png" alt="Folded Hands Light Skin Tone" width="25" height="25" /></h3>
 
 <a href="https://linkedin.com/in/AskitEndo" target="_blank">
@@ -162,7 +171,6 @@
 </a>
 </div>
 
- 
 ###
 
 <div align="center">
@@ -173,11 +181,9 @@
   
   <br>
 
-
 </div>
 
 ---
- 
 
 <div align="center">
   <img src="https://s12.gifyu.com/images/SYwVa.gif"  width="75%" alt="Dino Animation" style="margin-right: 20px;" />
