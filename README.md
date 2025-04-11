@@ -6,56 +6,15 @@
 <h6 algin="left">I'm a passionate web developer and an enthusiast of data structures and algorithms, Having Keen intrest in Topics like IOT, Cyber-Security, Blockchain and Cloud. Always diving into various tech adventures!</h1>
 
 <details>
-<summary>Badges n Stashes<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Gem%20Stone.webp" alt="Gem Stone" width="25" height="25" /> <img src="https://i.ibb.co/mCqF9xRJ/The-Arcade-Base-Camp-January-2025.png" alt="Badge" width="25" height="25" /> <img src="https://i.ibb.co/1JhJKX4w/level4-sloth-terminal-tumbler-hoodie-witch-eclipse.webp" alt="Badge" width="25" height="25" />  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Down%20Arrow.png" alt="Down Arrow" width="25" height="25" /></summary>
+<summary>Recent Projects<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="25" height="25" /></summary>
 
-
-<h2>Google Arcade 2025</h2>
-<table> 
-    <tr> 
-        <td width="150" align="center">
-            <a href="https://go.cloudskillsboost.google/arcade"><img src="https://i.ibb.co/mCqF9xRJ/The-Arcade-Base-Camp-January-2025.png" width="100%" /></a>
-            <h4>Arcade Base Camp</h4>
-            <p>Jan 2025</p>
-        </td> 
-        <td width="150" align="center">
-            <a href="https://go.cloudskillsboost.google/arcade"><img src="https://i.ibb.co/jPsvwRgW/Skills-Boost-Arcade-Skillsresolve.png" width="100%"  /></a>
-            <h4>Arcade Skill Resolve</h4>
-            <p>Jan 2025</p>
-        </td> 
-        <td width="150" align="center">
-            <a href="https://go.cloudskillsboost.google/arcade"><img src="https://i.ibb.co/0VmRL305/The-Arcade-Trivia-January-2025-Week-1.png" width="100%" /></a>
-            <h4>Trivia Week 1</h4>
-            <p>Jan 2025</p>
-        </td>
-        <td width="150" align="center">
-            <a href="https://go.cloudskillsboost.google/arcade"><img src="https://i.ibb.co/hFgkx67T/The-Arcade-Trivia-January-2025-Week-2.png" width="100%" /></a>
-            <h4>Trivia Week 2</h4>
-            <p>Jan 2025</p>
-        </td>
-        <td width="150" align="center">
-            <a href="https://go.cloudskillsboost.google/arcade"><img src="https://i.ibb.co/7NX0gtZC/The-Arcade-Trivia-January-2025-Week-3.png" width="100%" /></a>
-            <h4>Trivia Week 3</h4>
-            <p>Jan 2025</p>
-        </td>
-        <td width="150" align="center">
-            <a href="https://go.cloudskillsboost.google/arcade"><img src="https://i.ibb.co/wFJNs0dT/Skills-Boost-Arcade-Trivia-January-2025-Week-4.png" width="100%" /></a>
-            <h4>Trivia Week 4</h4>
-            <p>Jan 2025</p>
-        </td>
-        <td width="150" align="center">
-            <a href="https://go.cloudskillsboost.google/arcade"><img src="https://i.ibb.co/ks4BXXD4/Level-3-Arcade-Heroes.png" width="100%" /></a>
-            <h4>Arcade Hero level 3</h4>
-            <p>Jan 2025</p>
-        </td>       
-    </tr> 
-</table>
-
----
-
-<br>
-<h2>Hacktober 2024</h2>
-
-[![An image of @askitendo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/askitendo)](https://holopin.io/@askitendo)
+| Project Name     | Description                                                                                          | Skills                                  | Tools & Technologies                            |
+|------------------|------------------------------------------------------------------------------------------------------|-----------------------------------------|--------------------------------------------------|
+| **DhanSetu**     | P2P emergency fund platform with biometric login, blockchain ledger, and community voting           | Cybersecurity, Blockchain, Data Analytics | TensorFlow.js, Next.js, Zustand, Tailwind CSS     |
+| **BrinHack**     | Official hackathon website for Brindavan College with parallax sections and event timeline          | UI/UX Design, Accessibility,Community Handling             | Next.js, Tailwind, Shadcn/UI, React-Tilt         |
+| **VISTAARA**     | Real-time location-based social insight platform with heatmaps and live community posts             | Data Visualization, Geospatial Analysis,Real-time data processing | React, Leaflet.js, WebSockets, Tailwind CSS      |
+| **Event Booking**| Streamlined platform to book, manage, and confirm event slots with user-friendly interfaces          | Full Stack Development, UI/UX           | Supabase, Zustand, Next.js, Shadcn/UI            |
+| **DDoS.AI**      | Real-time AI-powered DDoS attack prevention using XAI, NLP, and RL-based threat mitigation           | Cybersecurity, AI/ML, Data Analytics    | Python, Flask, NumPy, Dash, Wireshark, Linux CLI |
 
 </details>
 
