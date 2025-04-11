@@ -127,8 +127,7 @@
 
   <img src="https://skillicons.dev/icons?i=raspberrypi" height="30" alt="raspberrypi logo"  />
     <img width="12" />
-  <img src="https://www.imghippo.com/i/GsQs9160cIo.png" height="30" alt="iot logo"  />
-    <img width="12" />
+ 
 
 </div>
 
