@@ -8,19 +8,19 @@
 <details>
 <summary>Recent Projects<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="25" height="25" /></summary>
 
-| Project Name     | Description                                                                                          | Skills                                  | Tools & Technologies                            |
-|------------------|------------------------------------------------------------------------------------------------------|-----------------------------------------|--------------------------------------------------|
-| **DhanSetu**     | P2P emergency fund platform with biometric login, blockchain ledger, and community voting           | Cybersecurity, Blockchain, Data Analytics | TensorFlow.js, Next.js, Zustand, Tailwind CSS     |
-| **BrinHack**     | Official hackathon website for Brindavan College with parallax sections and event timeline          | UI/UX Design, Accessibility,Community Handling             | Next.js, Tailwind, Shadcn/UI, React-Tilt         |
-| **VISTAARA**     | Real-time location-based social insight platform with heatmaps and live community posts             | Data Visualization, Geospatial Analysis,Real-time data processing | React, Leaflet.js, WebSockets, Tailwind CSS      |
-| **Event Booking**| Streamlined platform to book, manage, and confirm event slots with user-friendly interfaces          | Full Stack Development, UI/UX           | Supabase, Zustand, Next.js, Shadcn/UI            |
-| **DDoS.AI**      | Real-time AI-powered DDoS attack prevention using XAI, NLP, and RL-based threat mitigation           | Cybersecurity, AI/ML, Data Analytics    | Python, Flask, NumPy, Dash, Wireshark, Linux CLI |
+| Project Name      | Description                                                                                 | Skills                                                            | Tools & Technologies                             |
+| ----------------- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------ |
+| **DhanSetu**      | P2P emergency fund platform with biometric login, blockchain ledger, and community voting   | Cybersecurity, Blockchain, Data Analytics                         | TensorFlow.js, Next.js, Zustand, Tailwind CSS    |
+| **BrinHack**      | Official hackathon website for Brindavan College with parallax sections and event timeline  | UI/UX Design, Accessibility,Community Handling                    | Next.js, Tailwind, Shadcn/UI, React-Tilt         |
+| **VISTAARA**      | Real-time location-based social insight platform with heatmaps and live community posts     | Data Visualization, Geospatial Analysis,Real-time data processing | React, Leaflet.js, WebSockets, Tailwind CSS      |
+| **Event Booking** | Streamlined platform to book, manage, and confirm event slots with user-friendly interfaces | Full Stack Development, UI/UX                                     | Supabase, Zustand, Next.js, Shadcn/UI            |
+| **DDoS.AI**       | Real-time AI-powered DDoS attack prevention using XAI, NLP, and RL-based threat mitigation  | Cybersecurity, AI/ML, Data Analytics                              | Python, Flask, NumPy, Dash, Wireshark, Linux CLI |
 
 </details>
 
 ###
 
-<img align="right" width="25%"  alt="Avatar Animation" src="https://s10.gifyu.com/images/SYwVD.gif" style="margin-right: 20px;" />
+<img align="right" width="25%"  alt="Avatar Animation" src="./assets/avatarAnim rounded.gif" style="margin-right: 20px;" />
 
 <h4 align="left">Dev Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /></h4>
 
@@ -86,7 +86,6 @@
 
   <img src="https://skillicons.dev/icons?i=raspberrypi" height="30" alt="raspberrypi logo"  />
     <img width="12" />
- 
 
 </div>
 
@@ -146,6 +145,6 @@
 ---
 
 <div align="center">
-  <img src="https://s12.gifyu.com/images/SYwVa.gif"  width="75%" alt="Dino Animation" style="margin-right: 20px;" />
+  <img src="./assets/dinoRun.gif"  width="75%" alt="Dino Animation" style="margin-right: 20px;" />
 
 ###
