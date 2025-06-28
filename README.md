@@ -10,6 +10,7 @@
 
 | Project Name      | Description                                                                                 | Skills                                                            | Tools & Technologies                             |
 | ----------------- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------ |
+| **crampPanchayat**      | A period Tracking,Notes taking, Symptomps recording app with offline to online sync Architechure  | AppDev, UI/UX, Data Analytics                         | React Native Expo, Postgress, Supabase    |
 | **DhanSetu**      | P2P emergency fund platform with biometric login, blockchain ledger, and community voting   | Cybersecurity, Blockchain, Data Analytics                         | TensorFlow.js, Next.js, Zustand, Tailwind CSS    |
 | **BrinHack**      | Official hackathon website for Brindavan College with parallax sections and event timeline  | UI/UX Design, Accessibility,Community Handling                    | Next.js, Tailwind, Shadcn/UI, React-Tilt         |
 | **VISTAARA**      | Real-time location-based social insight platform with heatmaps and live community posts     | Data Visualization, Geospatial Analysis,Real-time data processing | React, Leaflet.js, WebSockets, Tailwind CSS      |
