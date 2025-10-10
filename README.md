@@ -8,13 +8,12 @@
 <details>
 <summary>Recent Projects<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="25" height="25" /></summary>
 
-| Project Name      | Description                                                                                 | Skills                                                            | Tools & Technologies                             |
-| ----------------- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------ |
-| **DhanSetu**      | P2P emergency fund platform with biometric login, blockchain ledger, and community voting   | Cybersecurity, Blockchain, Data Analytics                         | TensorFlow.js, Next.js, Zustand, Tailwind CSS    |
-| **BrinHack**      | Official hackathon website for Brindavan College with parallax sections and event timeline  | UI/UX Design, Accessibility,Community Handling                    | Next.js, Tailwind, Shadcn/UI, React-Tilt         |
-| **VISTAARA**      | Real-time location-based social insight platform with heatmaps and live community posts     | Data Visualization, Geospatial Analysis,Real-time data processing | React, Leaflet.js, WebSockets, Tailwind CSS      |
-| **Event Booking** | Streamlined platform to book, manage, and confirm event slots with user-friendly interfaces | Full Stack Development, UI/UX                                     | Supabase, Zustand, Next.js, Shadcn/UI            |
-| **DDoS.AI**       | Real-time AI-powered DDoS attack prevention using XAI, NLP, and RL-based threat mitigation  | Cybersecurity, AI/ML, Data Analytics                              | Python, Flask, NumPy, Dash, Wireshark, Linux CLI |
+| Project Name  | Description                                                                                                                                            | Skills                                                           | Tools & Technologies                                        |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- | ----------------------------------------------------------- |
+| BreachCanary  | Proactive, deception-driven cybersecurity system that plants traceable decoy files to detect insider threats and exfiltration attempts in real time.   | Threat Intelligence, Cybersecurity, Network Monitoring           | Python, Flask, SQLite, Wireshark, Linux, Socket Programming |
+| UR Safe Stick | Python-based offline-first vault that converts any USB into a four-factor authenticated, clone-resistant password vault bound to a specific machine.   | Cryptography, Authentication Systems, Cybersecurity Architecture | Python, Tkinter/PyQt, SQLite, hashlib, cryptography, pyudev |
+| DDoS.AI       | Real-time AI-powered DDoS prevention system using explainable AI, NLP, and reinforcement learning to detect and mitigate attack patterns dynamically.  | AI/ML, Network Security, Data Analytics                          | Python, Flask, NumPy, Dash, Wireshark, Scikit-learn, Pandas |
+| BrinHack      | Official hackathon website for Brindavan College featuring immersive parallax UI, dynamic event timeline, and responsive accessibility-focused design. | UI/UX Design, Web Development, Event Management                  | Next.js, Tailwind CSS, ShadCN/UI, React-Tilt, Vercel        |
 
 </details>
 
@@ -129,6 +128,8 @@
 <img src="https://img.shields.io/badge/GeeksForGeeks-000c00?style=for-the-badge&logo=geeksforgeeks&logoColor=00E200" alt="geeksforgeeks" style="margin-bottom: 5px;" />
 </a>
 </div>
+
+---
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=AskitEndo&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
