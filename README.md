@@ -15,6 +15,8 @@
 | DDoS.AI       | Real-time AI-powered DDoS prevention system using explainable AI, NLP, and reinforcement learning to detect and mitigate attack patterns dynamically.  | AI/ML, Network Security, Data Analytics                          | Python, Flask, NumPy, Dash, Wireshark, Scikit-learn, Pandas |
 | BrinHack      | Official hackathon website for Brindavan College featuring immersive parallax UI, dynamic event timeline, and responsive accessibility-focused design. | UI/UX Design, Web Development, Event Management                  | Next.js, Tailwind CSS, ShadCN/UI, React-Tilt, Vercel        |
 
+[![An image of @askitendo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/askitendo)](https://holopin.io/@askitendo)
+
 </details>
 
 ###
